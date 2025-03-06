@@ -1,7 +1,3 @@
-components/
 build/
-debug/
-sdkconfig.*
-managed_components
-bin
+bin/
 *.csv
